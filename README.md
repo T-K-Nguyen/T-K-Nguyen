@@ -11,7 +11,6 @@
 
 ### 🌑 About Me
 - Currently working on **[Risc-V-Project](https://github.com/T-K-Nguyen/Risc-V-Project)**
-- Learning **React Native** and **Rust**
 - My projects: [Repositories](https://github.com/T-K-Nguyen?tab=repositories)
 - Reach me at: **thuankimnguyen2636@gmail.com**
 - More about me: [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-157624345/)
@@ -51,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
   <!-- add others if needed -->
 </p>
 
