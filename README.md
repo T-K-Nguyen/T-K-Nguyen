@@ -10,11 +10,11 @@
 ---
 
 ### 🌑 About Me
-- 🔭 Currently working on **[Risc-V-Project](https://github.com/T-K-Nguyen/Risc-V-Project)**
-- 🌱 Learning **React Native** and **Rust**
-- 👨‍💻 My projects: [Repositories](https://github.com/T-K-Nguyen?tab=repositories)
-- 📫 Reach me at: **thuankimnguyen2636@gmail.com**
-- 📄 More about me: [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-157624345/)
+- Currently working on **[Risc-V-Project](https://github.com/T-K-Nguyen/Risc-V-Project)**
+- Learning **React Native** and **Rust**
+- My projects: [Repositories](https://github.com/T-K-Nguyen?tab=repositories)
+- Reach me at: **thuankimnguyen2636@gmail.com**
+- More about me: [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-157624345/)
 
 ---
 ---
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-### 🦋 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/thuan nguyen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -57,15 +57,15 @@
 
 ---
 
-### 🏵️ GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-k-nguyen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=t-k-nguyen&theme=darkhub" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=t-k-nguyen&theme=darkhub" alt="trophy" width="650"/>
 </p>
 ---
 
 <p align="center">
-  <img src="img/hollow1.jpg" width="800" alt="Hornet Hollow Knight Pixel Art"/>
+  <img src="img/mantis1.jpg" width="800" alt="Hornet Hollow Knight Pixel Art"/>
 </p>
 
 <p align="center">⚔️ "The path ahead is perilous, but filled with growth." ⚔️</p>
