@@ -17,6 +17,20 @@
 - 📄 More about me: [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-157624345/)
 
 ---
+---
+
+### 📂 Featured Repositories
+<p align="center">
+  <a href="https://github.com/T-K-Nguyen/Risc-V-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-K-Nguyen&repo=Risc-V-Project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/T-K-Nguyen/STA_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-K-Nguyen&repo=STA_Project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/T-K-Nguyen/HCMUT_Study_Place">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-K-Nguyen&repo=HCMUT_Study_Place&theme=tokyonight" />
+  </a>
+</p>
 
 ### 🦋 Connect with Me
 <p align="left">
@@ -45,17 +59,9 @@
 
 ### 🏵️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t-k-nguyen&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-k-nguyen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=t-k-nguyen&theme=darkhub" alt="trophy"/>
 </p>
-
 ---
 
 <p align="center">
