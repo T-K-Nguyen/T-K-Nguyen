@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/eqFgzxZ.png" alt="Hollow Knight Banner" width="800"/>
+  <img src="img/hornet1.jpg" alt="Hollow Knight Banner" width="800"/>
 </p>
 
 <h1 align="center">✨ Welcome, wanderer... ✨</h1>
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/ExdKOOz.png" width="400" alt="Hornet Hollow Knight Pixel Art"/>
+  <img src="img/hollow1.jpg" width="800" alt="Hornet Hollow Knight Pixel Art"/>
 </p>
 
 <p align="center">⚔️ "The path ahead is perilous, but filled with growth." ⚔️</p>
